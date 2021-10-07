@@ -1,5 +1,5 @@
 # Hi :wave:, I'm **Shivam Varshney** 
-### A B.Tech third year undergrad from Computer Science Branch
+### A B.Tech fourth year undergrad from Computer Science Branch
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SKV-programmer&theme=nightowl&hide_border=false)](https://git.io/streak-stats)
 <!--
